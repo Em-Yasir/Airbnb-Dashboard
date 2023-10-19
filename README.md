@@ -6,4 +6,5 @@ Following are some of the outputs that you can get from this project.
 1- Average Price Per Bedroom
 2- Price Per Zip code (map)
 3- Price By Zip code
-4-Distinct Count of Bedrooms
+4- Distinct Count of Bedrooms
+5- Revenue for Year
